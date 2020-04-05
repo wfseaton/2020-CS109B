@@ -8,4 +8,5 @@ Tags:
 
 ## Slides
 
-- [Lecture 17 Slides [PPTX]](presentation/cs109b_langauge2.pptx)
+- [Lecture 17 Slides [PPTX]](presentation/cs109b_language2.pptx)
+- [Lecture 17 Slides [PDF]](presentation/cs109b_language2.pdf)
